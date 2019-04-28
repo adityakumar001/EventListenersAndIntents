@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EventListenersAndIntents</string>
+    <string name="open_web_browser">Open web browser!!</string>
+</resources>
